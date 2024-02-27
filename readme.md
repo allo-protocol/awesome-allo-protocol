@@ -117,16 +117,13 @@ The strategies serve as a proof of concept. They have not been audited.
 
 A showcase of some of the awesome dApps people have built on Allo.
 
-- AlloScan: [Website](https://datalatte.com/) | [Repo](https://github.com/datalatte-ai)
-- SeaGrants: [Website](https://datalatte.com/) | [Repo](https://github.com/datalatte-ai)
-- Build3r: [Website](https://datalatte.com/) | [Repo](https://github.com/datalatte-ai)
-- Conviction Voting App: [Website]() | [Repo]()
-- Spray: [Website]() | [Repo]()
-- DAO Driven Crowdfunding Platform: [Website]() | [Repo]()
-- Alloliance: [Website]() | [Repo]()
-- SolidGrant: [Website]() | [Repo]()
-- Margari: [Website]() | [Repo]()
-- RocketFunding: [Website]() | [Repo]()
+- AlloScan: [Repo](https://github.com/allo-protocol/allo-scan)
+- SeaGrants: [Website](https://www.seagrants.xyz/) | [Repo](https://github.com/allo-protocol/SeaGrants)
+- Build3r: [Website](https://build3r.on.fleek.co/) | [Repo](https://github.com/chrisarevalo11/Build3r)
+- Spray: [Website](https://www.spray.cash/) | [Repo](https://github.com/WuBruno/spray.cash)
+- DAO Driven Crowdfunding Platform: [Website](https://alexandr-masl.github.io/frontend-gitcoin-alloV2-hackathon/) | [Repo](https://github.com/alexandr-masl/web3-crowdfunding-on-allo-V2)
+- Alloliance: [Website](https://alloliance.vercel.app/) | [Repo](https://github.com/Alloliance)
+- SolidGrant: [Website](https://solidgrant.click/home) | [Repo](https://github.com/web3senior/solidgrant)
 - Conviction Voting App: [Website](https://gardens-v2.vercel.app/gardens) | [Repo](https://github.com/1Hive/gardens-v2)
 - Grant Ships: [Website](https://hackmd.io/c_rMYiFOTO2zA4fi4gfASw) | [Repo](https://github.com/DAOmasons/allo-v2/tree/grantShips)
 - PledgePost: [Website](https://v2-interface-sigma.vercel.app/) | [Repo](https://github.com/PledgePost/v2Interface)
