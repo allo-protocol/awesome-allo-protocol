@@ -10,16 +10,16 @@ Allo is an open-source protocol that enables groups to efficiently and transpare
 
 ## Contents
 
-- [Official Docs and Quickstart](#section)
-- [Updates](#another-section)
-- [Official Documentation]()
-- [Learning Resources]()
-- [Allocation Strategies]()
-  - [Official Strategies]()
-  - [Base Strategies]()
-  - [Proof of Concept Strategies]()
-  - [Community Strategies]()
-- [Project Showcase]
+- [Official Docs and Quickstart](#official-docs-and-quickstarts)
+  - [Updates](#updates)
+  - [Official Documentation](#official-documentation)
+  - [Learning Resources](#learning-resources)
+- [Allocation Strategies](#allocation-strategies)
+  - [Official Strategies](#official-strategies)
+  - [Base Strategies](#base-strategies)
+  - [Proof of Concept Strategies](#proof-of-concept-strategies)
+  - [Community Strategies](#community-strategies)
+- [Project Showcase](#project-showcase)
 
 ## Official Docs and Quickstarts
 
