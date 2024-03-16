@@ -125,7 +125,7 @@ A showcase of some of the awesome dApps people have built on Allo.
 - Alloliance: [Website](https://alloliance.vercel.app/) | [Repo](https://github.com/Alloliance)
 - SolidGrant: [Website](https://solidgrant.click/home) | [Repo](https://github.com/web3senior/solidgrant)
 - Conviction Voting App: [Website](https://gardens-v2.vercel.app/gardens) | [Repo](https://github.com/1Hive/gardens-v2)
-- Grant Ships: [Website](https://hackmd.io/c_rMYiFOTO2zA4fi4gfASw) | [Repo](https://github.com/DAOmasons/allo-v2/tree/grantShips)
+- Grant Ships: [Website](https://grantships.fun) | [Repo](https://github.com/DAOmasons/allo-v2/tree/grantShips)
 - PledgePost: [Website](https://v2-interface-sigma.vercel.app/) | [Repo](https://github.com/PledgePost/v2Interface)
 
 ## Contribute
